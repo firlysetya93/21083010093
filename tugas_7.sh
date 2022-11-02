@@ -8,11 +8,10 @@ lebar() {
 }
 luas() {
  let persegi=$panjang*$lebar
- echo "luas persegi : $persegi "
+ echo "luas persegi : 
+$persegi "
  read luas persegi
 }
 panjang
 lebar
 luas
-
-
